@@ -4,7 +4,7 @@ A modern and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-🔗 [Play the Game Here](tic-tac-toe-code-eight.vercel.app)
+🔗 [Play the Game Here](https://tic-tac-toe-code-eight.vercel.app/)
 
 ## 📸 Screenshot
 
